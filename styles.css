@@ -31,6 +31,17 @@ p {
 img {
   width: 80%;
 }
+.btn-holder{
+  margin-top: 30px;
+  display: block;
+  padding: 10px;
+  text-align: center;
+}
+.btn{
+  padding: 15px 50px;
+  font-size: 25px;
+  font-weight: bold;
+}
 
 footer {
   margin-top: 5%;
